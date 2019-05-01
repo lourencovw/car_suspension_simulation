@@ -36,7 +36,8 @@ ________________________________________________________________________________
 RESULTS:
 
 
-<img src="https://github.com/lourencovw/car_suspension_simulation/blob/master/pitch.PNG" width="800"/>
+<img src="https://github.com/lourencovw/car_suspension_simulation/blob/master/pitch.PNG" width="500"/>
+<img src="https://github.com/lourencovw/car_suspension_simulation/blob/master/roll.PNG" width="500"/>
 <img src="https://github.com/lourencovw/car_suspension_simulation/blob/master/Front_wheels.PNG" width="800"/>
 <img src="https://github.com/lourencovw/car_suspension_simulation/blob/master/gc.PNG" width="800"/>
 
